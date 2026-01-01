@@ -7,6 +7,7 @@ and lets talk about today just used kiss launcher in phone
 and the best part of it is the invisibility feature of it so good  
 only i know where my privates are and thats it for today lets see you tommorow  
 and i will study about the book of math i was intrested and write about it soon  
+  
 ##Day2
 fucking hell the orca is hell well i found that to enable it you need  
 (orca) to start and (killall orca) to terminate it  
@@ -20,4 +21,7 @@ and they are
 5. xfce  
 https://support.system76.com/articles/desktop-environment  
 just go to above to see it  
-
+  
+##Day3
+Just visited some place today so i am tired.  
+Happy new year to myself and hope you wil progress
